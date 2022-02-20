@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0b00033d614bcb14685c0841a09624e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - usernameField: {fileID: 494809022559399714, guid: e16dc0e0415b0004c88e04f572e81a01, type: 3}
+  - roomNameField: {fileID: 1102624725179972320, guid: b372213526362234288b112069b01bbd, type: 3}
+  - maxPlayersSlider: {instanceID: 0}
+  - maxPlayersValue: {instanceID: 0}
+  - tabMain: {fileID: 320187487709218949, guid: ee63ee229ef462f44a44f3777f979d0e, type: 3}
+  - tabRooms: {fileID: 8094613265852501471, guid: fedb802a6ba2bbe488ead98c6cc9f109, type: 3}
+  - tabCreate: {fileID: 2014482308444162325, guid: 7f133d181f211cb42a7c3b4351c18680, type: 3}
+  - buttonRoom: {fileID: 8076369076087519379, guid: e371dff1c17148241923873c67f120f3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
