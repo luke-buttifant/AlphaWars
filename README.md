@@ -2,6 +2,5 @@
 An online first person shooter game. 
  
 To run game:
-1. click on releases.
-2. Press Development Beta.
-3. Download the installer. 
+1. Click here: https://github.com/lukebuttifant-lab/AlphaWars/releases/download/v1.00/Alpha-Wars-Installer.exe
+2. Follow instructions in installer. 
