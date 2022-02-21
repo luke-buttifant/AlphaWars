@@ -9,3 +9,5 @@ To Download game:
 3. You may get a warning, this is normal. Windows will show that popup on any software that isn't popular. 
 4. Click More info and then Run Anyway.
 5. Follow instructions in installer. 
+
+![Illustration-Image](https://github.com/lukebuttifant-lab/AlphaWars/blob/main/illustration2.png?raw=true)
