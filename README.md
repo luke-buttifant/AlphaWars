@@ -1,5 +1,5 @@
 # AlphaWars
-An online first person shooter game. 
+**An online 3D first person shooter game.**
 ![Illustration-Image](https://github.com/lukebuttifant-lab/AlphaWars/blob/main/illustration.png?raw=true)
 
  
