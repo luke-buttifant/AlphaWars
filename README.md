@@ -10,4 +10,6 @@ To Download game:
 4. Click More info and then Run Anyway.
 5. Follow instructions in installer. 
 
-![Illustration-Image](https://github.com/lukebuttifant-lab/AlphaWars/blob/main/illustration2.png?raw=true)
+<p align="center">
+  <img width="100%" src="https://github.com/lukebuttifant-lab/AlphaWars/blob/main/illustration2.png?raw=true">
+</p>
