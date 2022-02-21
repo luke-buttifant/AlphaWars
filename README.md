@@ -1,3 +1,5 @@
+![Illustration-Image](https://github.com/lukebuttifant-lab/AlphaWars/blob/main/illustration.jpg?raw=true)
+
 # AlphaWars
 An online first person shooter game. 
  
